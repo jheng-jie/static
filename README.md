@@ -6,4 +6,4 @@ Hosted on GitHub Pages
 
 Full Vibe Coding
 
-- Bomberman demo
+- Bomberman demo: https://jheng-jie.github.io/static/bomb/
